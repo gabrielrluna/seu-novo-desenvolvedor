@@ -128,7 +128,7 @@ section {
 
 #formacao {
     color: #fff;
-    background-image: url(imagens/pexels-julia-m-cameron-4144923.jpg);
+    background-image: url(imagens/pexels-julia-m-cameron-4144923.webp);
     background-size: cover;
     background-position-x: center;
 }
@@ -138,14 +138,14 @@ section {
 }
 #qualidades {
     color: #fff;
-    background-image: url(imagens/pexels-danny-meneses-943096.jpg);
+    background-image: url(imagens/pexels-danny-meneses-943096.webp);
     background-size: cover;
     
 }
 
 #stack {
     color: #fff;
-    background-image: url(imagens/pexels-christina-morillo-1181282.jpg);
+    background-image: url(imagens/pexels-christina-morillo-1181282.webp);
     background-size: cover;
     background-position-x: center;
 }
@@ -155,7 +155,7 @@ section {
 }
 
 #informacoes {
-    background-image: url(imagens/pexels-lukas-574069.jpg);
+    background-image: url(imagens/pexels-lukas-574069.webp);
     color: #fff;
     background-size: cover;
 
@@ -163,7 +163,7 @@ section {
 
 #contato {
     color: #fff;
-    background-image: url(imagens/pexels-olia-danilevich-4974913.jpg);
+    background-image: url(imagens/pexels-olia-danilevich-4974913.webp);
     background-size: cover;
     background-position-x: center;
 }
